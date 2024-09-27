@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ogyrivex.github.io/sitemap.ogyrivex.gz
+Sitemap: https://ogyrivex.github.io/app/sitemap.ogyrivex.gz
+Sitemap: https://ogyrivex.github.io/assets/sitemap.ogyrivex.gz
+Sitemap: https://ogyrivex.github.io/css/sitemap.ogyrivex.gz
+Sitemap: https://ogyrivex.github.io/data/sitemap.ogyrivex.gz
+Sitemap: https://ogyrivex.github.io/includes/sitemap.ogyrivex.gz
+Sitemap: https://ogyrivex.github.io/item/sitemap.ogyrivex.gz
+Sitemap: https://ogyrivex.github.io/src/sitemap.ogyrivex.gz
